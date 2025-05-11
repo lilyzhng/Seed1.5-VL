@@ -24,7 +24,7 @@ Welcome to the **Seed1.5-VL** API Cookbook! This collection of code samples is d
 
 
 ## License
-This repo is under Apache License 2.0.
+This repo is under [Apache-2.0 License](./LICENSE).
 
 ## About [ByteDance Seed Team](https://seed.bytedance.com/)
 

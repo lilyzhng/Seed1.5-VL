@@ -1,4 +1,5 @@
-# Copyright (2025) [Seed-VL-Cookbook] Bytedance Seed
+# Copyright (c) 2025 Bytedance Ltd. and/or its affiliates
+# SPDX-License-Identifier: Apache-2.0
 import os
 import gradio as gr
 from infer import SeedVLInfer, ConversationModeI18N, ConversationModeCN

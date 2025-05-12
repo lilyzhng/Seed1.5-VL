@@ -3,14 +3,14 @@
 </div>
 
 <p align="center">
-🌐 <a href=""> Homepage (upcoming)</a>&nbsp&nbsp | &nbsp&nbsp🤗 <a href="https://huggingface.co">Hugging Face (upcoming)</a>&nbsp&nbsp | &nbsp&nbsp📄 <a href="https://arxiv.org/abs/">arXiv (upcoming)</a>
+🌐 <a href=""> Homepage (upcoming)</a>&nbsp&nbsp | &nbsp&nbsp📄 <a href="https://arxiv.org/abs/">arXiv (upcoming)</a>
 </p>
 
 ## 🌟 Highlights
 
 * Seed1.5-VL is a vision-language foundation model featuring a 532M-parameter vision encoder and a 20B active parameter Mixture-of-Experts (MoE) LLM, designed to advance general-purpose multimodal understanding and reasoning.
 
-* Seed1.5-VL delivers strong performance across numerous public benchmarks, achieving state-of-the-art results in areas including multimodal reasoning and agent-centric tasks.
+* Seed1.5-VL delivers strong performance across extensive public benchmarks, achieving state-of-the-art results on 38 of 60 multimodal benchmarks. Seed1.5-VL excels in image reasoning, image grounding & counting, 3D spatial understanding, video understanding, GUI agents, and gameplay.
 
 * This repository offers usage cookbook and best practices designed to help developers effectively use Seed1.5-VL.
 

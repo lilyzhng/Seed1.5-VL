@@ -6,13 +6,15 @@
 🌐 <a href=""> Homepage (upcoming)</a>&nbsp&nbsp | &nbsp&nbsp📄 <a href="https://arxiv.org/abs/">arXiv (upcoming)</a>
 </p>
 
+🚀 **Introducing Seed1.5-VL:** A powerful and efficient vision-language foundation model designed for advanced general-purpose multimodal understanding and reasoning.
+
 ## 🌟 Highlights
+* 🧠 **Efficient Powerhouse:** Achieves top performance with a relatively modest architecture, 532M vision encoder & 20B active parameter MoE LLM.
+* 🏆 **Exceptional Benchmark Performance:** Delivers State-of-the-Art results on 38 out of 60 public VLM benchmarks, demonstrating broad competence.
+* 💡 **Versatile Capabilities:** Excels across diverse capabilities including complex reasoning (e.g., visual puzzles like Rebus), OCR, diagram understanding, visual grounding, 3D spatial understanding, and video comprehension.
+* 🤖 **Advanced Agent & Reasoning Skills:** Demonstrates leading performance in interactive agent tasks, showcasing strong capabilities in GUI control and gameplay.
 
-* Seed1.5-VL is a vision-language foundation model featuring a 532M-parameter vision encoder and a 20B active parameter Mixture-of-Experts (MoE) LLM, designed to advance general-purpose multimodal understanding and reasoning.
-
-* Seed1.5-VL delivers strong performance across extensive public benchmarks, achieving state-of-the-art results on 38 of 60 multimodal benchmarks. Seed1.5-VL excels in image reasoning, image grounding & counting, 3D spatial understanding, video understanding, GUI agents, and gameplay.
-
-* This repository offers usage cookbook and best practices designed to help developers effectively use Seed1.5-VL.
+**This repository offers usage cookbook and best practices designed to help developers effectively use Seed1.5-VL.**
 
 
 ## 📢 News

@@ -6,9 +6,11 @@
 🌐 <a href=""> Homepage (upcoming)</a>&nbsp&nbsp | &nbsp&nbsp📄 <a href="https://arxiv.org/abs/">arXiv (upcoming)</a>
 </p>
 
+## 🌟 Introduction
+
 🚀 **Introducing Seed1.5-VL:** A powerful and efficient vision-language foundation model designed for advanced general-purpose multimodal understanding and reasoning.
 
-## 🌟 Highlights
+**Highlights:**
 * 🧠 **Efficient Powerhouse:** Achieves top performance with a relatively modest architecture, 532M vision encoder & 20B active parameter MoE LLM.
 * 🏆 **Exceptional Benchmark Performance:** Delivers State-of-the-Art results on 38 out of 60 public VLM benchmarks, demonstrating broad competence.
 * 💡 **Versatile Capabilities:** Excels across diverse capabilities including complex reasoning (e.g., visual puzzles like Rebus), OCR, diagram understanding, visual grounding, 3D spatial understanding, and video comprehension.

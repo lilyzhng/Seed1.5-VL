@@ -12,7 +12,7 @@ Today，we are excited to introduce Seed1.5-VL, a powerful and efficient vision-
 * 🧠 **Efficient Powerhouse:** Achieves top performance with a relatively modest architecture, 532M vision encoder & 20B active parameter MoE LLM.
 * 🏆 **Exceptional Benchmark Performance:** Delivers State-of-the-Art results on 38 out of 60 public VLM benchmarks, demonstrating broad competence.
 * 💡 **Versatile Capabilities:** Excels across diverse capabilities including complex reasoning (e.g., visual puzzles like Rebus), OCR, diagram understanding, visual grounding, 3D spatial understanding, and video comprehension.
-* 🤖 **Advanced Agent & Reasoning Skills:** Demonstrates leading performance in interactive agent tasks, showcasing strong capabilities in GUI control and gameplay.
+* 🤖 **Advanced Agent-Centric Abilities:** Demonstrates leading performance in interactive agent tasks, showcasing strong capabilities in GUI control and gameplay.
 
 **This repository offers usage cookbook and best practices designed to help developers effectively use Seed1.5-VL.**
 

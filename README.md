@@ -3,10 +3,10 @@
 </div>
 
 <p align="center">
-🌐 <a href=""> Homepage (upcoming)</a>&nbsp&nbsp | &nbsp&nbsp📄 <a href="https://arxiv.org/abs/2505.07062">arXiv</a>
+🤗 <a href=""> HuggingFace Demo (upcoming)</a>&nbsp&nbsp | &nbsp&nbsp🌐 <a href="https://seed.bytedance.com/zh/tech/seed1_5_vl"> Homepage</a>&nbsp&nbsp | &nbsp&nbsp📄 <a href="https://arxiv.org/abs/2505.07062">arXiv</a>
 </p>
 
-Today，we are excited to introduce **Seed1.5-VL** 🚀, a powerful and efficient vision-language foundation model designed for advanced general-purpose multimodal understanding and reasoning.
+Today, we are excited to introduce **Seed1.5-VL** 🚀, a powerful and efficient vision-language foundation model designed for advanced general-purpose multimodal understanding and reasoning.
 
 ## 🌟 Highlights
 * 🧠 **Efficient Powerhouse:** Achieves top performance with a relatively modest architecture, 532M vision encoder & 20B active parameter MoE LLM.

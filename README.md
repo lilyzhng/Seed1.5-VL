@@ -34,6 +34,7 @@ The Seed1.5-VL cookbook is designed to help you start using the Seed1.5-VL API w
 - [x] Cookbook for [2D Grounding](./Grounding)
 - [x] Cookbook for [3D Understanding](./3D-Understanding)
 - [x] Cookbook for [Video Understanding](./Video)
+- [X] Cookbook for [GUI Agents](./GUI) 
 
 
 ## License

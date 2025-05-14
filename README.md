@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-🌐 <a href=""> Homepage (upcoming)</a>&nbsp&nbsp | &nbsp&nbsp📄 <a href="https://arxiv.org/abs/">arXiv (upcoming)</a>
+🌐 <a href="https://seed.bytedance.com/en/direction/multimodal"> Homepage (upcoming)</a>&nbsp&nbsp | &nbsp&nbsp📄 <a href="https://arxiv.org/abs/">arXiv (upcoming)</a>
 </p>
 
 ## 🌟 Introduction

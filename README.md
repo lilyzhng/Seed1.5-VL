@@ -22,6 +22,8 @@ Today, we are excited to introduce **Seed1.5-VL** 🚀, a powerful and efficient
 * `2025-05-12:` We have released the [Seed1.5-VL Technical Report](./Seed1.5-VL-Technical-Report.pdf).
 * `2025-05-12:` We are extremely delighted to release the flagship Seed1.5-VL on [Volcano Engine](https://www.volcengine.com/product/doubao). The Model ID is `doubao-1-5-thinking-vision-pro-250428`. You can try it now!
 
+## 📮 Notice
+**Call for Bad Cases:** If you have encountered any cases where the model performs poorly, we would greatly appreciate it if you could share them in the issue [https://github.com/ByteDance-Seed/Seed1.5-VL/issues/12]
 
 ## 📖 Seed1.5-VL Cookbook
 

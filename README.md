@@ -38,6 +38,16 @@ The Seed1.5-VL cookbook is designed to help you start using the Seed1.5-VL API w
 - [x] Cookbook for [Video Understanding](./Video)
 - [X] Cookbook for [GUI Agents](./GUI) 
 
+## Citations
+If you Seed1.5-VL useful in your research or applications, please consider giving us a star 🌟 and citing it by the following BibTeX entry.
+```bibtex
+@article{seed2025seed1_5vl,
+  title={Seed1.5-VL Technical Report},
+  author={ByteDance Seed Team},
+  journal={arXiv preprint arXiv:2505.07062},
+  year={2025}
+}
+```
 
 ## License
 This repo is under [Apache-2.0 License](./LICENSE).
